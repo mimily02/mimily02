@@ -2,7 +2,7 @@
 - 🎀 Estudando C#
 - ⚡ Pronoums: ela/dela
 
-  <h2 align="center">Olá!  Sejam bem-vindos ao meu github! 🎀</h2>
+ <h2 align="center">Olá!  Sejam bem-vindos ao meu github! 🎀</h2>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/10a8AOSeP6Rqfu/giphy.gif"  />
 
 ###
 
@@ -38,8 +38,3 @@
 <img src="https://raw.githubusercontent.com/mimily02/mimily02/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<!---
-mimily02/mimily02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
